@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Harpreet 👋
 
-<!--
-**preet01/preet01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a builder — I like taking AI ideas and turning them into working apps I can actually point to. Take a look through my repos: [cnn_projects](https://github.com/preet01/cnn_projects) (CNN experiments based on research papers), [Generative-Adversarial-Network](https://github.com/preet01/Generative-Adversarial-Network) (GAN notebooks and ideas), and [deep-research-agent](https://github.com/preet01/deep-research-agent), an AI research automation agent.
 
-Here are some ideas to get you started:
+Outside of building, I spend a lot of time on AI research — specifically interpretability: trying to understand what's actually happening inside these models rather than just using them. That means digging into things like Jacobian-based sensitivity and attribution methods, and thinking about inner vs. outer alignment — the gap between what a model is trained to optimize for and what it actually learns to do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on**
+
+- Shipping AI product experiences (currently at PayPal)
+- Prototyping applied ML ideas: CNNs, GANs, agents
+- Interpretability: understanding model internals via gradient/Jacobian-based methods
+- Alignment: inner alignment (does the model pursue the intended objective?) vs. outer alignment (is the objective itself correct?)
+
+**About Me**
+
+- **Senior Product Manager** at PayPal, working on AI-driven product experiences
+- Previously **AI PM at Apple**
+- **Master's in Software Engineering, Carnegie Mellon University**
+- Based in San Francisco
+
+🌱 Always happy to talk AI products, interpretability, or alignment — feel free to connect on [LinkedIn](https://www.linkedin.com/in/harpreetvishnoi).
